@@ -2,7 +2,7 @@
 
 Ethical Issues
   1. People might prefer the simplicity of having to search through a list. A search feature could allow users to be found by email or other forms of identificaton, which some users might not like.
-  2. 
+  2. When people downloaded the app, they likely liked it for the features that were present, and changing those features without the consent of a user might be an ethical conundrum. It is a small one, but it is worth considering.
   3.
   
 Legal Issues 
