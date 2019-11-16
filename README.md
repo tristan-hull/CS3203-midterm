@@ -3,7 +3,7 @@
 Ethical Issues
   1. People might prefer the simplicity of having to search through a list. This would be taking that away from them.
   2. When people downloaded the app, they likely liked it for the features that were present, and changing those features without the consent of a user might be an ethical conundrum. It is a small one, but it is worth considering.
-  3. 
+  3. A search feature could allow users to be found by email or other forms of identificaton, which some users might not like and could be considered unethical.
   
 Legal Issues 
   1. In Japan, the user has to be aware that their data could be collected. To implement the search feature, more data might need to be collected about the user than they had previously consented to, so this could cause problems during implementation.
