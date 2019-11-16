@@ -6,7 +6,7 @@ Ethical Issues
   3.
   
 Legal Issues 
-  1.
+  1. In Japan, the user has to be aware that their data could be collected. To implement the search feature, more data might need to be collected about the user than they had previously consented to, so this could cause problems during implementation.
   2.
   3. 
   
