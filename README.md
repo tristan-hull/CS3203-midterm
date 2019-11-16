@@ -1,7 +1,7 @@
 # CS3203-midterm
 
 Ethical Issues
-  1. 
+  1. People might prefer the simplicity of having to search through a list. A search feature could allow users to be found by email or other forms of identificaton, which some users might not like.
   2. 
   3.
   
