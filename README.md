@@ -11,6 +11,6 @@ Legal Issues
   3. In Japan, businesses must also try to delete data when it is no longer required, so Yo might need to set an amount of time that would set an account for automatic deletion to get around this law.
   
 Professional Issues:
-  1. A large part of what makes Yo great is the simplicity, and this draws away from this a little. 
+  1. A large part of what makes Yo great is the simplicity, and the search feature draws away from this a little. 
   2. 
   3. 
