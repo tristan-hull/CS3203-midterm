@@ -1,5 +1,6 @@
 # CS3203-midterm
 
+
 Ethical Issues
   1. People might prefer the simplicity of having to search through a list. This would be taking that away from them.
   2. When people downloaded the app, they likely liked it for the features that were present, and changing those features without the consent of a user might be an ethical conundrum. It is a small one, but it is worth considering.
@@ -12,5 +13,5 @@ Legal Issues
   
 Professional Issues:
   1. A large part of what makes Yo great is the simplicity, and the search feature draws away from this a little. 
-  2. 
+  2. The app seems kind of playful, which isn't going to be taken seriously be professionals. It could be changed to be less of a toy and more of a really useful app.
   3. 
