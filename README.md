@@ -14,4 +14,5 @@ Legal Issues
 Professional Issues:
   1. A large part of what makes Yo great is the simplicity, and the search feature draws away from this a little. 
   2. The app seems kind of playful, which isn't going to be taken seriously be professionals. It could be changed to be less of a toy and more of a really useful app.
-  3. 
+  3. It is really challenging to get the hang of. I found myself almost deleting friends at times. 
+
