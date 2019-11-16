@@ -1,4 +1,4 @@
-# CS3203-midterm
+https://github.com/tristan-hull/CS3203-midterm
 
 Screenshots and New Feature:
   The feature I decided to add was the ability to search through a friends list. In my screenshots you will see that you can walk through the process of sending a yo to a few people, and then bring brought back to the original screen. You can also see that by tapping the top search bar, you can type a name, and the list is filtered as it should be to make finding a friend a much faster process.
