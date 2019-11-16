@@ -1,5 +1,36 @@
 # CS3203-midterm
 
+Screenshots and New Feature:
+  The feature I decided to add was the ability to search through a friends list. In my screenshots you will see that you can walk through the process of sending a yo to a few people, and then bring brought back to the original screen. You can also see that by tapping the top search bar, you can type a name, and the list is filtered as it should be to make finding a friend a much faster process.
+
+![](images/Home.png)
+
+![](images/Send1.png)
+
+![](images/Home.png)
+
+![](images/Send2.png)
+
+![](images/Home.png)
+
+![](images/Send3.png)
+
+![](images/Home.png)
+
+![](images/OpenSearch.png)  
+
+![](images/Types.png)  
+
+![](images/Typea.png)  
+
+![](images/Typem.png)  
+
+![](images/Typea(2).png)
+
+Logo: It is really simple, but it get's the point across and it's recognizable. The colors are incredibly important to me as well.
+![](images/Logo.png)
+
+
 
 Ethical Issues
   1. People might prefer the simplicity of having to search through a list. This would be taking that away from them.
